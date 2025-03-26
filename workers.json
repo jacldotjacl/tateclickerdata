@@ -53,5 +53,38 @@
             "value": 250
         },
         "description": "nom nom nom nom."
+    },
+    {
+        "id": "og-duo",
+        "name": "OG Duo",
+        "cost": 500000,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/OG%20Duo",
+        "effect": {
+            "type": "perSecond",
+            "value": 600
+        },
+        "description": "One day, or day one?."
+    },
+    {
+        "id": "mega-mcmillan",
+        "name": "Mega Mcmillan",
+        "cost": 5000000,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/megamcmillan",
+        "effect": {
+            "type": "perSecond",
+            "value": 1500
+        },
+        "description": "BOOM!."
+    },
+    {
+        "id": "geeked-eamon",
+        "name": "Geeked Eamon",
+        "cost": 50000000,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/geekedeamon",
+        "effect": {
+            "type": "perSecond",
+            "value": 4000
+        },
+        "description": ",,,."
     }
 ]
