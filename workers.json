@@ -86,5 +86,27 @@
             "value": 4000
         },
         "description": "..."
+    },
+    {
+        "id": "no-neck-noah",
+        "name": "No Neck Noah",
+        "cost": 800000000,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/nonecknoah",
+        "effect": {
+            "type": "perSecond",
+            "value": 10000
+        },
+        "description": "..."
+    },
+    {
+        "id": "chocky-tate",
+        "name": "Chocky Tate",
+        "cost": 12000000000,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/chockytate",
+        "effect": {
+            "type": "perSecond",
+            "value": 25000
+        },
+        "description": "..."
     }
 ]
