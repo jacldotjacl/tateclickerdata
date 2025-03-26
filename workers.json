@@ -1,0 +1,20 @@
+[
+    {
+        "id": "auto-miner",
+        "name": "Auto Miner",
+        "cost": 10,
+        "effect": {
+            "type": "perSecond",
+            "value": 1
+        }
+    },
+    {
+        "id": "robot-drone",
+        "name": "Robot Drone",
+        "cost": 25,
+        "effect": {
+            "type": "perSecond",
+            "value": 3
+        }
+    }
+]
