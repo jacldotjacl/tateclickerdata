@@ -31,5 +31,27 @@
             "value": 40
         },
         "description": "Awwwwww."
+    },
+    {
+        "id": "mini-pekka",
+        "name": "Mini P.E.K.K.A",
+        "cost": 10000,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/minipekka",
+        "effect": {
+            "type": "perSecond",
+            "value": 100
+        },
+        "description": "Mini pekka ifykyk."
+    },
+    {
+        "id": "tates-snake",
+        "name": "Tate's Snake",
+        "cost": 75000,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/tatessnack",
+        "effect": {
+            "type": "perSecond",
+            "value": 250
+        },
+        "description": "nom nom nom nom."
     }
 ]
