@@ -3,6 +3,7 @@
         "id": "auto-miner",
         "name": "Auto Miner",
         "cost": 10,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/slave",
         "effect": {
             "type": "perSecond",
             "value": 1
@@ -12,6 +13,7 @@
         "id": "robot-drone",
         "name": "Robot Drone",
         "cost": 25,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/makaitub48x48",
         "effect": {
             "type": "perSecond",
             "value": 3
