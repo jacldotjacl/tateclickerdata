@@ -3,20 +3,22 @@
         "id": "auto-miner",
         "name": "Auto Miner",
         "cost": 10,
-        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/slave",
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/auto-miner-icon.png",
         "effect": {
             "type": "perSecond",
             "value": 1
-        }
+        },
+        "description": "A basic automated mining unit that tirelessly collects Tatecoins."
     },
     {
         "id": "robot-drone",
         "name": "Robot Drone",
         "cost": 25,
-        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/makaitub48x48",
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/robot-drone-icon.png",
         "effect": {
             "type": "perSecond",
             "value": 3
-        }
+        },
+        "description": "An advanced drone that scans and mines Tatecoin deposits efficiently."
     }
 ]
