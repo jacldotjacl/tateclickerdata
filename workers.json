@@ -8,7 +8,7 @@
             "type": "perSecond",
             "value": 5
         },
-        "description": "A kind soul who painfully works for you, for free!."
+        "description": "A kind soul who painfully works for you, for free!"
     },
     {
         "id": "tubby-makai",
@@ -19,7 +19,7 @@
             "type": "perSecond",
             "value": 15
         },
-        "description": "Yo phone linging!."
+        "description": "Yo phone linging!"
     },
     {
         "id": "bronte",
@@ -30,7 +30,7 @@
             "type": "perSecond",
             "value": 40
         },
-        "description": "Awwwwww."
+        "description": "Awwwwww"
     },
     {
         "id": "mini-pekka",
@@ -41,7 +41,7 @@
             "type": "perSecond",
             "value": 100
         },
-        "description": "Mini pekka ifykyk."
+        "description": "Mini pekka ifykyk"
     },
     {
         "id": "tates-snake",
@@ -52,7 +52,7 @@
             "type": "perSecond",
             "value": 250
         },
-        "description": "nom nom nom nom."
+        "description": "nom nom nom nom"
     },
     {
         "id": "og-duo",
@@ -63,7 +63,7 @@
             "type": "perSecond",
             "value": 600
         },
-        "description": "One day, or day one?."
+        "description": "One day, or day one?"
     },
     {
         "id": "mega-mcmillan",
@@ -74,7 +74,7 @@
             "type": "perSecond",
             "value": 1500
         },
-        "description": "BOOM!."
+        "description": "BOOM!"
     },
     {
         "id": "geeked-eamon",
@@ -85,6 +85,6 @@
             "type": "perSecond",
             "value": 4000
         },
-        "description": ",,,."
+        "description": "..."
     }
 ]
