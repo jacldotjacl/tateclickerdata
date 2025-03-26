@@ -1,23 +1,23 @@
 [
     {
-        "id": "drill",
-        "name": "Drill",
-        "cost": 50,
+        "id": "betterfingers",
+        "name": "Better Fingers",
+        "cost": 150,
         "effect": {
             "type": "perClick",
-            "value": 5
+            "value": 3
         },
-        "description": "Enhances your manual mining with a powerful drill."
+        "description": "Increases Tatecoins earnt per click to 3."
     },
     {
-        "id": "power-core",
-        "name": "Power Core",
-        "cost": 100,
+        "id": "whips",
+        "name": "Whips",
+        "cost": 500,
         "effect": {
             "type": "workerMultiplier",
-            "workerId": "auto-miner",
+            "workerId": "slave",
             "value": 2
         },
-        "description": "Doubles the efficiency of Auto Miners with a high-energy core."
+        "description": "Doubles the income of the slaves."
     }
 ]
