@@ -6,7 +6,8 @@
         "effect": {
             "type": "perClick",
             "value": 5
-        }
+        },
+        "description": "Enhances your manual mining with a powerful drill."
     },
     {
         "id": "power-core",
@@ -16,6 +17,7 @@
             "type": "workerMultiplier",
             "workerId": "auto-miner",
             "value": 2
-        }
+        },
+        "description": "Doubles the efficiency of Auto Miners with a high-energy core."
     }
 ]
