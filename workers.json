@@ -21,4 +21,14 @@
         },
         "description": "Yo phone linging!."
     }
+    {
+        "id": "bronte",
+        "name": "Cutie Bum Bronte",
+        "cost": 1500,
+        "icon": "https://file.garden/ZLvPQieVhBA68hAk/tateclicker/brontie",
+        "effect": {
+            "type": "perSecond",
+            "value": 40
+        },
+        "description": "Awwwwww."
 ]
