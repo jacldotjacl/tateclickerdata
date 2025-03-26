@@ -1,0 +1,21 @@
+[
+    {
+        "id": "drill",
+        "name": "Drill",
+        "cost": 50,
+        "effect": {
+            "type": "perClick",
+            "value": 5
+        }
+    },
+    {
+        "id": "power-core",
+        "name": "Power Core",
+        "cost": 100,
+        "effect": {
+            "type": "workerMultiplier",
+            "workerId": "auto-miner",
+            "value": 2
+        }
+    }
+]
